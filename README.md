@@ -17,6 +17,8 @@ This application depends on few libraries such as (1) shiny, (2) shinydashboard,
 
 I created few video demonstrations on this application: 
 
+Installation (Windows) - https://www.youtube.com/watch?v=0G7dseJ-pW4
+
 Introduction - https://www.youtube.com/watch?v=ENfPWBJebaw&feature=youtu.be
 
 EFA & SEM - https://www.youtube.com/watch?v=QxzFtKn_LKc&feature=youtu.be

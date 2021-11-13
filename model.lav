@@ -1,0 +1,16 @@
+attitude =~ att1 + att2
+perception =~ per1 + per2 
+satisfaction =~ sat1 + sat2
+
+# direct
+satisfaction ~ c * attitude
+
+# mediation
+perception ~ a * attitude
+satisfaction ~ b * perception
+
+# indirect 
+ab := a * b
+
+# total effect
+total = c + (a * b) 
